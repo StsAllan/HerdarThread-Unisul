@@ -3,5 +3,7 @@ Terceira parte da aula de Thread, mas com Herança de Thread - Unisul - Pedra Br
 
 -Seguintes Atividades:
 1 – Adicionar um novo trabalhador 
+
 2 – Mesmo tempo para todos os trabalhadores 
+
 3 – Comentar o sleep da classe Trabalhador em run
